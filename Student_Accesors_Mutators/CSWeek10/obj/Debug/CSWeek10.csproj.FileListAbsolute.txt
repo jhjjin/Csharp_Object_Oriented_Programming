@@ -1,0 +1,7 @@
+C:\Users\jeong\source\repos\CSWeek10\CSWeek10\obj\Debug\CSWeek10.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\CSWeek10\CSWeek10\obj\Debug\CSWeek10.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\CSWeek10\CSWeek10\bin\Debug\CSWeek10.exe.config
+C:\Users\jeong\source\repos\CSWeek10\CSWeek10\bin\Debug\CSWeek10.exe
+C:\Users\jeong\source\repos\CSWeek10\CSWeek10\bin\Debug\CSWeek10.pdb
+C:\Users\jeong\source\repos\CSWeek10\CSWeek10\obj\Debug\CSWeek10.exe
+C:\Users\jeong\source\repos\CSWeek10\CSWeek10\obj\Debug\CSWeek10.pdb
