@@ -1,0 +1,10 @@
+C:\Users\jeong\source\repos\3_21_ECE2310_window\3_21_ECE2310_window\bin\Debug\3_21_ECE2310_window.exe.config
+C:\Users\jeong\source\repos\3_21_ECE2310_window\3_21_ECE2310_window\bin\Debug\3_21_ECE2310_window.exe
+C:\Users\jeong\source\repos\3_21_ECE2310_window\3_21_ECE2310_window\bin\Debug\3_21_ECE2310_window.pdb
+C:\Users\jeong\source\repos\3_21_ECE2310_window\3_21_ECE2310_window\obj\Debug\3_21_ECE2310_window.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\3_21_ECE2310_window\3_21_ECE2310_window\obj\Debug\_3_21_ECE2310_window.Form1.resources
+C:\Users\jeong\source\repos\3_21_ECE2310_window\3_21_ECE2310_window\obj\Debug\_3_21_ECE2310_window.Properties.Resources.resources
+C:\Users\jeong\source\repos\3_21_ECE2310_window\3_21_ECE2310_window\obj\Debug\3_21_ECE2310_window.csproj.GenerateResource.cache
+C:\Users\jeong\source\repos\3_21_ECE2310_window\3_21_ECE2310_window\obj\Debug\3_21_ECE2310_window.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\3_21_ECE2310_window\3_21_ECE2310_window\obj\Debug\3_21_ECE2310_window.exe
+C:\Users\jeong\source\repos\3_21_ECE2310_window\3_21_ECE2310_window\obj\Debug\3_21_ECE2310_window.pdb
