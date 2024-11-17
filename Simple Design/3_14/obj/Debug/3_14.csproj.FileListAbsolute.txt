@@ -1,0 +1,10 @@
+C:\Users\jeong\source\repos\3_14\3_14\obj\Debug\3_14.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\3_14\3_14\obj\Debug\_3_14.Form1.resources
+C:\Users\jeong\source\repos\3_14\3_14\obj\Debug\_3_14.Properties.Resources.resources
+C:\Users\jeong\source\repos\3_14\3_14\obj\Debug\3_14.csproj.GenerateResource.cache
+C:\Users\jeong\source\repos\3_14\3_14\obj\Debug\3_14.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\3_14\3_14\bin\Debug\3_14.exe.config
+C:\Users\jeong\source\repos\3_14\3_14\bin\Debug\3_14.exe
+C:\Users\jeong\source\repos\3_14\3_14\bin\Debug\3_14.pdb
+C:\Users\jeong\source\repos\3_14\3_14\obj\Debug\3_14.exe
+C:\Users\jeong\source\repos\3_14\3_14\obj\Debug\3_14.pdb
