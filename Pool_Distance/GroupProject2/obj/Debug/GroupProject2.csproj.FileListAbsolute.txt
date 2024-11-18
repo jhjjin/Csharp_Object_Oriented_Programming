@@ -1,0 +1,7 @@
+C:\Users\jeong\source\repos\GroupProject2\GroupProject2\bin\Debug\GroupProject2.exe.config
+C:\Users\jeong\source\repos\GroupProject2\GroupProject2\bin\Debug\GroupProject2.exe
+C:\Users\jeong\source\repos\GroupProject2\GroupProject2\bin\Debug\GroupProject2.pdb
+C:\Users\jeong\source\repos\GroupProject2\GroupProject2\obj\Debug\GroupProject2.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\GroupProject2\GroupProject2\obj\Debug\GroupProject2.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\GroupProject2\GroupProject2\obj\Debug\GroupProject2.exe
+C:\Users\jeong\source\repos\GroupProject2\GroupProject2\obj\Debug\GroupProject2.pdb
