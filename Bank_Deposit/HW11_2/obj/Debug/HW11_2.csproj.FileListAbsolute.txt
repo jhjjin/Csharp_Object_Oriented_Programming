@@ -1,0 +1,7 @@
+C:\Users\jeong\source\repos\HW11_2\HW11_2\obj\Debug\HW11_2.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\HW11_2\HW11_2\obj\Debug\HW11_2.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\HW11_2\HW11_2\bin\Debug\HW11_2.exe.config
+C:\Users\jeong\source\repos\HW11_2\HW11_2\bin\Debug\HW11_2.exe
+C:\Users\jeong\source\repos\HW11_2\HW11_2\bin\Debug\HW11_2.pdb
+C:\Users\jeong\source\repos\HW11_2\HW11_2\obj\Debug\HW11_2.exe
+C:\Users\jeong\source\repos\HW11_2\HW11_2\obj\Debug\HW11_2.pdb
