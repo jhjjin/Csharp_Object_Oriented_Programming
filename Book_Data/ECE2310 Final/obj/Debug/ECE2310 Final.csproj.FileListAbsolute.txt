@@ -1,0 +1,7 @@
+C:\Users\jeong\source\repos\ECE2310 Final\ECE2310 Final\obj\Debug\ECE2310 Final.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\ECE2310 Final\ECE2310 Final\obj\Debug\ECE2310 Final.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\ECE2310 Final\ECE2310 Final\bin\Debug\ECE2310 Final.exe.config
+C:\Users\jeong\source\repos\ECE2310 Final\ECE2310 Final\bin\Debug\ECE2310 Final.exe
+C:\Users\jeong\source\repos\ECE2310 Final\ECE2310 Final\bin\Debug\ECE2310 Final.pdb
+C:\Users\jeong\source\repos\ECE2310 Final\ECE2310 Final\obj\Debug\ECE2310 Final.exe
+C:\Users\jeong\source\repos\ECE2310 Final\ECE2310 Final\obj\Debug\ECE2310 Final.pdb
