@@ -1,0 +1,7 @@
+C:\Users\jeong\source\repos\ECE2310_4_30\ECE2310_4_30\bin\Debug\ECE2310_4_30.exe.config
+C:\Users\jeong\source\repos\ECE2310_4_30\ECE2310_4_30\bin\Debug\ECE2310_4_30.exe
+C:\Users\jeong\source\repos\ECE2310_4_30\ECE2310_4_30\bin\Debug\ECE2310_4_30.pdb
+C:\Users\jeong\source\repos\ECE2310_4_30\ECE2310_4_30\obj\Debug\ECE2310_4_30.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\ECE2310_4_30\ECE2310_4_30\obj\Debug\ECE2310_4_30.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\ECE2310_4_30\ECE2310_4_30\obj\Debug\ECE2310_4_30.exe
+C:\Users\jeong\source\repos\ECE2310_4_30\ECE2310_4_30\obj\Debug\ECE2310_4_30.pdb
