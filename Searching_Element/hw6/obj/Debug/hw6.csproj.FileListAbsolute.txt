@@ -1,0 +1,7 @@
+C:\Users\jeong\source\repos\hw6\hw6\bin\Debug\hw6.exe.config
+C:\Users\jeong\source\repos\hw6\hw6\bin\Debug\hw6.exe
+C:\Users\jeong\source\repos\hw6\hw6\bin\Debug\hw6.pdb
+C:\Users\jeong\source\repos\hw6\hw6\obj\Debug\hw6.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\hw6\hw6\obj\Debug\hw6.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\hw6\hw6\obj\Debug\hw6.exe
+C:\Users\jeong\source\repos\hw6\hw6\obj\Debug\hw6.pdb
