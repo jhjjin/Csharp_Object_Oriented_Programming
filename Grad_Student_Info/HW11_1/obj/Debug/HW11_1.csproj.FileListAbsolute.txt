@@ -1,0 +1,7 @@
+C:\Users\jeong\source\repos\HW11_1\HW11_1\bin\Debug\HW11_1.exe.config
+C:\Users\jeong\source\repos\HW11_1\HW11_1\bin\Debug\HW11_1.exe
+C:\Users\jeong\source\repos\HW11_1\HW11_1\bin\Debug\HW11_1.pdb
+C:\Users\jeong\source\repos\HW11_1\HW11_1\obj\Debug\HW11_1.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\HW11_1\HW11_1\obj\Debug\HW11_1.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\HW11_1\HW11_1\obj\Debug\HW11_1.exe
+C:\Users\jeong\source\repos\HW11_1\HW11_1\obj\Debug\HW11_1.pdb
