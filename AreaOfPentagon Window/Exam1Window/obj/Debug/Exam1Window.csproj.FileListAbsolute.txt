@@ -1,0 +1,10 @@
+C:\Users\jeong\source\repos\Exam1Window\Exam1Window\bin\Debug\Exam1Window.exe.config
+C:\Users\jeong\source\repos\Exam1Window\Exam1Window\bin\Debug\Exam1Window.exe
+C:\Users\jeong\source\repos\Exam1Window\Exam1Window\bin\Debug\Exam1Window.pdb
+C:\Users\jeong\source\repos\Exam1Window\Exam1Window\obj\Debug\Exam1Window.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\Exam1Window\Exam1Window\obj\Debug\Exam1Window.Calculation.resources
+C:\Users\jeong\source\repos\Exam1Window\Exam1Window\obj\Debug\Exam1Window.Properties.Resources.resources
+C:\Users\jeong\source\repos\Exam1Window\Exam1Window\obj\Debug\Exam1Window.csproj.GenerateResource.cache
+C:\Users\jeong\source\repos\Exam1Window\Exam1Window\obj\Debug\Exam1Window.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\Exam1Window\Exam1Window\obj\Debug\Exam1Window.exe
+C:\Users\jeong\source\repos\Exam1Window\Exam1Window\obj\Debug\Exam1Window.pdb
