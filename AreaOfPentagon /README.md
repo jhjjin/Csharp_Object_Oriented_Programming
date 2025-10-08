@@ -5,11 +5,13 @@ using the **triangulation method** and **Heron’s formula**.
 Includes both **WinForms UI** and **.NET 7 console** implementations.
 
 ## 📂 Project Structure
+```
 AreaOfPentagon/
 ├── Program.cs            # Console version (recommended; cross-platform)
 ├── Calculation.cs        # WinForms logic (optional; Windows only)
 ├── Calculation.Designer.cs
 └── AreaOfPentagon.sln / .csproj
+```
 
 ## 🧮 Method
 1. **Distance between points:**  
