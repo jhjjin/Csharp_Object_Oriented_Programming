@@ -27,6 +27,25 @@ checking.Withdraw(200);
 
 Saving saving = new Saving("4939", "Jeong", 3000);
 Console.WriteLine("\nSavings Account:");
+saving.ToString();
+saving.Deposite(400);
+saving.Withdraw(200);
+
+
+```
+
+##🧾 Sample Output
+```
+Checking Account:
+Account Number: 1001 Ower Name: Hyukjin Balance: 1000
+400 amount deposited. New balance is 1400
+200 amount withdrawn. New balance is 1200
+
+Savings Account:
+Account Number: 4939 Ower Name: Jeong Balance: 3000
+400 amount deposited. New balance: 3400
+200 amount withdrawn. New balance: 3200
+
 ```
 ## 🧠 Concepts Demonstrated
 ```
@@ -35,6 +54,4 @@ Inheritance: Checking and Saving derived from BankAccount.
 Polymorphism: Withdraw and Deposite methods overridden.
 Destructor (~): Cleans up resources when the object is destroyed
 ```
-saving.ToString();
-saving.Deposite(400);
-saving.Withdraw(200);
+
