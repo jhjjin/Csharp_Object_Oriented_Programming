@@ -35,7 +35,7 @@ saving.Withdraw(200);
 
 ```
 
-##🧾 Sample Output
+## 🧾 Sample Output
 ```
 Checking Account:
 Account Number: 1001 Ower Name: Hyukjin Balance: 1000
