@@ -6,11 +6,12 @@ This project demonstrates basic function definition, mathematical computation, a
 
 
 ## 📂 Project Structure
+```
 AreaOfTriangle/
 ├── Program.cs              # Main console application  
 ├── AreaOfTriangle.csproj  
 └── AreaOfTriangle.sln  
-
+```
 
 
 ## 🧮 Formula Used
@@ -24,11 +25,12 @@ For a triangle with sides **a**, **b**, and **c**:
    A = sqrt{s(s - a)(s - b)(s - c)}
 
 ## 🧠 Code Explanation
+```
 AreaOfTriangle(double a, double b, double c):
 Calculates the triangle’s area using Heron’s formula.
 Console.WriteLine():
 Displays the result in the console.
 Optional: Distance2() function (commented out) demonstrates how to compute the distance between two points in 2D space.
-   
+```
 
 
