@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hyukjinjeong/Documents/Object-Oriented-Programming/Animal_List/Animal_Base/CSharp.OOP.Basics.csproj": {}
+    "/Users/hyukjinjeong/Documents/Object-Oriented-Programming/OOP-Animal-Class-Implementation/Animal_List/CSharp.OOP.Basics.csproj": {}
   },
   "projects": {
-    "/Users/hyukjinjeong/Documents/Object-Oriented-Programming/Animal_List/Animal_Base/CSharp.OOP.Basics.csproj": {
+    "/Users/hyukjinjeong/Documents/Object-Oriented-Programming/OOP-Animal-Class-Implementation/Animal_List/CSharp.OOP.Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hyukjinjeong/Documents/Object-Oriented-Programming/Animal_List/Animal_Base/CSharp.OOP.Basics.csproj",
+        "projectUniqueName": "/Users/hyukjinjeong/Documents/Object-Oriented-Programming/OOP-Animal-Class-Implementation/Animal_List/CSharp.OOP.Basics.csproj",
         "projectName": "CSharpOOPBasics",
-        "projectPath": "/Users/hyukjinjeong/Documents/Object-Oriented-Programming/Animal_List/Animal_Base/CSharp.OOP.Basics.csproj",
+        "projectPath": "/Users/hyukjinjeong/Documents/Object-Oriented-Programming/OOP-Animal-Class-Implementation/Animal_List/CSharp.OOP.Basics.csproj",
         "packagesPath": "/Users/hyukjinjeong/.nuget/packages/",
-        "outputPath": "/Users/hyukjinjeong/Documents/Object-Oriented-Programming/Animal_List/Animal_Base/obj/",
+        "outputPath": "/Users/hyukjinjeong/Documents/Object-Oriented-Programming/OOP-Animal-Class-Implementation/Animal_List/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hyukjinjeong/.nuget/NuGet/NuGet.Config"

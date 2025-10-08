@@ -1,0 +1,15 @@
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/bin/Debug/net7.0/AreaOfPentagonSDK
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/bin/Debug/net7.0/AreaOfPentagonSDK.deps.json
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/bin/Debug/net7.0/AreaOfPentagonSDK.runtimeconfig.json
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/bin/Debug/net7.0/AreaOfPentagonSDK.dll
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/bin/Debug/net7.0/AreaOfPentagonSDK.pdb
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/obj/Debug/net7.0/AreaOfPentagonSDK.csproj.AssemblyReference.cache
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/obj/Debug/net7.0/AreaOfPentagonSDK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/obj/Debug/net7.0/AreaOfPentagonSDK.AssemblyInfoInputs.cache
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/obj/Debug/net7.0/AreaOfPentagonSDK.AssemblyInfo.cs
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/obj/Debug/net7.0/AreaOfPentagonSDK.csproj.CoreCompileInputs.cache
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/obj/Debug/net7.0/AreaOfPentagonSDK.dll
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/obj/Debug/net7.0/refint/AreaOfPentagonSDK.dll
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/obj/Debug/net7.0/AreaOfPentagonSDK.pdb
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/obj/Debug/net7.0/AreaOfPentagonSDK.genruntimeconfig.cache
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfPentagonSDK/obj/Debug/net7.0/ref/AreaOfPentagonSDK.dll
