@@ -1,8 +1,7 @@
 # 🏦 BankDeposit — Object-Oriented Programming in C#
 
 ### 💡 Overview
-This C# console project demonstrates **Object-Oriented Programming (OOP)** principles such as **inheritance**, **encapsulation**, and **polymorphism**  
-through a simple banking system that handles **Checking** and **Saving** accounts.
+This C# console project demonstrates **Object-Oriented Programming (OOP)** principles such as **inheritance**, **encapsulation**, and **polymorphism** through a simple banking system that handles **Checking** and **Saving** accounts.
 
 ---
 
