@@ -13,11 +13,11 @@ AreaOfPentagon/
 
 ## 🧮 Method
 1. **Distance between points:**  
-   \( d(p, q) = \sqrt{(x_p - x_q)^2 + (y_p - y_q)^2} \)
+   d(p, q) = sqrt{(x_p - x_q)^2 + (y_p - y_q)^2} 
 
 2. **Area of a triangle (Heron’s formula):**  
-   \( s = \frac{a + b + c}{2} \)  
-   \( A = \sqrt{s(s - a)(s - b)(s - c)} \)
+   s = (a + b + c)/2   
+   A = sqrt{s(s - a)(s - b)(s - c)} 
 
 3. **Triangulation approach:**  
    The pentagon is divided into 3 triangles:  
