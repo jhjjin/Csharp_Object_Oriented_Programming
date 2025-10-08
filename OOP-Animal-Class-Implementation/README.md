@@ -7,9 +7,9 @@ This creates an Animal base class and extends it into Dog and Bird classes.
 - Inheritance (Animal -> Dog, Bird)
 - Method Overriding / Polymorphsim 
 - Encapsulation with constructors and properties
-```
-## 🖥️ Example Output
 
+## 🖥️ Example Output
+```
 ------Testing Animal class ------
 #1: A 2-year-old animal by the name of J
 #2: A 8-year-old animal by the name of Z
