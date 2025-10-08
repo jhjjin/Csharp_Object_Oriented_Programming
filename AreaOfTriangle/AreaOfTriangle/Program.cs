@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exam1
+namespace AreaOfTriangle
 {
     internal class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace Exam1Window
+﻿namespace AreaOfPentagon
 {
     partial class Calculation
     {
