@@ -1,0 +1,7 @@
+C:\Users\jeong\source\repos\hw08\hw08\bin\Debug\hw08.exe.config
+C:\Users\jeong\source\repos\hw08\hw08\bin\Debug\hw08.exe
+C:\Users\jeong\source\repos\hw08\hw08\bin\Debug\hw08.pdb
+C:\Users\jeong\source\repos\hw08\hw08\obj\Debug\hw08.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\hw08\hw08\obj\Debug\hw08.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\hw08\hw08\obj\Debug\hw08.exe
+C:\Users\jeong\source\repos\hw08\hw08\obj\Debug\hw08.pdb
