@@ -6,6 +6,7 @@ It calculates and displays employee information including **monthly and annual s
 ---
 
 ## 🗂️ Project Structure
+```
 EmployeeSalary/
 ├── EmployeeSalary.sln
 ├── EmployeeSalary/
@@ -14,6 +15,7 @@ EmployeeSalary/
 │ ├── App.config
 │ └── Properties/
 │ └── AssemblyInfo.cs
+```
 
 ---
 ## 🧠 Key OOP Concepts Demonstrated
