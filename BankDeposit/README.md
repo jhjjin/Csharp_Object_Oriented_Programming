@@ -15,7 +15,7 @@ BankDeposit/
 └── Program.cs       # Main program entry
 ```
 
-
+---
 ## ⚙️ Program Execution
 
 ## 🖥️ Example (Program.cs)
@@ -34,7 +34,7 @@ saving.Withdraw(200);
 
 
 ```
-
+---
 ## 🧾 Sample Output
 ```
 Checking Account:
@@ -48,6 +48,7 @@ Account Number: 4939 Ower Name: Jeong Balance: 3000
 200 amount withdrawn. New balance: 3200
 
 ```
+---
 ## 🧠 Concepts Demonstrated
 ```
 Encapsulation: Data hidden inside class properties.
