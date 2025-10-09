@@ -3,7 +3,7 @@
 A simple C# program to calculate the **area of a pentagon** given 5 Cartesian coordinate points,  
 using the **triangulation method** and **Heron’s formula**.  
 Includes both **WinForms UI** and **.NET 7 console** implementations.
-
+---
 ## 📂 Project Structure
 ```
 AreaOfPentagon/
@@ -12,7 +12,7 @@ AreaOfPentagon/
 ├── Calculation.Designer.cs
 └── AreaOfPentagon.sln / .csproj
 ```
-
+---
 ## 🧮 Method
 1. **Distance between points:**  
    d(p, q) = sqrt{(x_p - x_q)^2 + (y_p - y_q)^2} 
@@ -29,7 +29,7 @@ AreaOfPentagon/
 
 **Important:** The points must be entered **in order** (clockwise or counterclockwise)  
 to form a simple, non-self-intersecting pentagon.
-
+---
 ## ✅ Example Output
 ```
 Area of Pentagon (by triangulation) — .NET 7 Console
