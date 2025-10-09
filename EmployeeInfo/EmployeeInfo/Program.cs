@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 // Encapsulation example
 
 
-namespace _4_18_24
+namespace EmployeeInfo
 {
     class Program
     {

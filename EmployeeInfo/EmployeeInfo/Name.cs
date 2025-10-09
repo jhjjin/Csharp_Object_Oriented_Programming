@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _4_18_24
+namespace EmployeeInfo
 {
     class Name
     {
