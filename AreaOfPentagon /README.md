@@ -27,7 +27,7 @@ AreaOfPentagon/
    - △(p3, p5, p2)  
    - △(p2, p4, p5)
 
-**Important:** The points must be entered **in order** (clockwise or counterclockwise)  
+Important:** The points must be entered **in order** (clockwise or counterclockwise)  
 to form a simple, non-self-intersecting pentagon.
 ---
 ## ✅ Example Output
