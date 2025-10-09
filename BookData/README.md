@@ -25,6 +25,8 @@ BookData/
 > That’s fine for the demo, but idiomatic C# overrides `public override string ToString()` from `object`.  
 > See the _Improvements_ section below.
 
+---
+
 # ✅ Example Output
 ```
 The Date is 1/9/2021
