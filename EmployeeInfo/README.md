@@ -20,6 +20,7 @@ A simple C# console application demonstrating **Object-Oriented Programming (OOP
 ---
 
 ## 🧱 Project Structure
+```
 EmployeeInfo/
 ├─ Name.cs
 ├─ Date.cs
@@ -27,12 +28,16 @@ EmployeeInfo/
 ├─ Program.cs
 ├─ EmployeeInfo.csproj
 └─ EmployeeInfo.sln
+```
 
+---
 
 ## 🧩 Program Description
+```
 The program:
 Creates several Name objects using overloaded constructors
 Modifies names and prints them using getters/setters
 Demonstrates the Employee class with two constructors
 Displays employee details and total sales
 Tests Date validation and property behavior
+```
