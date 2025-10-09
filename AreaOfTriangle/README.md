@@ -4,7 +4,7 @@ A simple C# console application that calculates the **area of a triangle** using
 This project demonstrates basic function definition, mathematical computation, and console output in C#.
 
 
-
+---
 ## 📂 Project Structure
 ```
 AreaOfTriangle/
@@ -13,7 +13,7 @@ AreaOfTriangle/
 └── AreaOfTriangle.sln  
 ```
 
-
+---
 ## 🧮 Formula Used
 For a triangle with sides **a**, **b**, and **c**:
 
@@ -23,7 +23,7 @@ For a triangle with sides **a**, **b**, and **c**:
 
 2. Compute the area:  
    A = sqrt{s(s - a)(s - b)(s - c)}
-
+---
 ## 🧠 Code Explanation
 ```
 AreaOfTriangle(double a, double b, double c):
