@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _4_18_24
+namespace EmployeeInfo
 {
     class Date
     {

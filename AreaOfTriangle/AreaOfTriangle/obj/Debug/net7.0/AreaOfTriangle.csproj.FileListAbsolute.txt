@@ -1,0 +1,5 @@
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfTriangle/AreaOfTriangle/obj/Debug/net7.0/AreaOfTriangle.csproj.AssemblyReference.cache
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfTriangle/AreaOfTriangle/obj/Debug/net7.0/AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfTriangle/AreaOfTriangle/obj/Debug/net7.0/AreaOfTriangle.AssemblyInfoInputs.cache
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfTriangle/AreaOfTriangle/obj/Debug/net7.0/AreaOfTriangle.AssemblyInfo.cs
+/Users/hyukjinjeong/Documents/Object-Oriented-Programming/AreaOfTriangle/AreaOfTriangle/obj/Debug/net7.0/AreaOfTriangle.csproj.CoreCompileInputs.cache
