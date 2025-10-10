@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 
 
-namespace CSWeek10
+namespace StudentAccessorsMutators
 {
 
     class Program
@@ -47,3 +47,4 @@ namespace CSWeek10
 
     
 }
+
