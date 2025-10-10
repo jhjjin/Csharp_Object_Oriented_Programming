@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ECE_2310_Hw_10
+namespace GroceryList
 {
     class Eggs
     {
@@ -46,3 +46,4 @@ namespace ECE_2310_Hw_10
         ~Eggs() { }
     }
 }
+
